@@ -23,7 +23,8 @@ O objetivo é transformar dados brutos em informações visuais claras e úteis,
 ---
 
 ## 📊 Exemplo de Visualização
-![Dashboard Xbox Game Pass](imagens/dashboard_preview.png)
+![Dashboard Xbox Game Pass](https://github.com/L-AlbCS/dashboard-xbox-gamepass/blob/main/imagens/dashboard_preview.png?raw=true)
+
 
 ---
 
